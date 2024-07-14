@@ -10,4 +10,4 @@
 - fetch-api
 
 ## Link Live
-https://saleh0987.github.io/Yummy-js-Task/
+https://saleh0987.github.io/Yummy/
